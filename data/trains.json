@@ -1,3 +1,5 @@
+{"nextId":100,
+  "trains"
 [
   {
     "id": 1,
@@ -740,3 +742,4 @@
     "open_after_min": 2
   }
 ]
+}
