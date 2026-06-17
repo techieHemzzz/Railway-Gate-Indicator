@@ -1,0 +1,742 @@
+[
+  {
+    "id": 1,
+    "name": "Chennai Beach - Chengalpattu EMU",
+    "number": "40501",
+    "direction": "towards Chengalpattu (down)",
+    "gate_pass_time": "05:12",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 2,
+    "name": "Chennai Beach - Chengalpattu EMU",
+    "number": "40503",
+    "direction": "towards Chengalpattu (down)",
+    "gate_pass_time": "05:57",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 3,
+    "name": "Chennai Beach - Chengalpattu EMU",
+    "number": "40505",
+    "direction": "towards Chengalpattu (down)",
+    "gate_pass_time": "06:37",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 4,
+    "name": "Chennai Beach - Chengalpattu EMU",
+    "number": "40507",
+    "direction": "towards Chengalpattu (down)",
+    "gate_pass_time": "07:02",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 5,
+    "name": "Chennai Beach - Chengalpattu EMU",
+    "number": "40509",
+    "direction": "towards Chengalpattu (down)",
+    "gate_pass_time": "07:27",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 6,
+    "name": "Chennai Beach - Chengalpattu EMU",
+    "number": "40511",
+    "direction": "towards Chengalpattu (down)",
+    "gate_pass_time": "07:54",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 7,
+    "name": "Chennai Beach - Chengalpattu EMU",
+    "number": "40513",
+    "direction": "towards Chengalpattu (down)",
+    "gate_pass_time": "08:14",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 8,
+    "name": "Chennai Beach - Tirumalpur EMU",
+    "number": "40701",
+    "direction": "towards Chengalpattu (down)",
+    "gate_pass_time": "08:35",
+    "days": ["MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 9,
+    "name": "Chennai Beach - Chengalpattu EMU",
+    "number": "40515",
+    "direction": "towards Chengalpattu (down)",
+    "gate_pass_time": "08:42",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 10,
+    "name": "Chennai Beach - Chengalpattu EMU",
+    "number": "40517",
+    "direction": "towards Chengalpattu (down)",
+    "gate_pass_time": "09:02",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 11,
+    "name": "Chennai Beach - Chengalpattu EMU",
+    "number": "40519",
+    "direction": "towards Chengalpattu (down)",
+    "gate_pass_time": "09:27",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 12,
+    "name": "Chennai Beach - Chengalpattu EMU",
+    "number": "40521",
+    "direction": "towards Chengalpattu (down)",
+    "gate_pass_time": "09:52",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 13,
+    "name": "Tambaram - Villupuram MEMU",
+    "number": "66045",
+    "direction": "towards Chengalpattu (down)",
+    "gate_pass_time": "10:05",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 14,
+    "name": "Chennai Beach - Chengalpattu EMU",
+    "number": "40523",
+    "direction": "towards Chengalpattu (down)",
+    "gate_pass_time": "10:25",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 15,
+    "name": "Chennai Beach - Chengalpattu EMU",
+    "number": "40525",
+    "direction": "towards Chengalpattu (down)",
+    "gate_pass_time": "11:05",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 16,
+    "name": "Chennai Beach - Chengalpattu EMU",
+    "number": "40527",
+    "direction": "towards Chengalpattu (down)",
+    "gate_pass_time": "11:50",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 17,
+    "name": "Chennai Beach - Chengalpattu EMU",
+    "number": "40529",
+    "direction": "towards Chengalpattu (down)",
+    "gate_pass_time": "12:35",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 18,
+    "name": "Chennai Beach - Chengalpattu EMU",
+    "number": "40531",
+    "direction": "towards Chengalpattu (down)",
+    "gate_pass_time": "13:20",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 19,
+    "name": "Chennai Beach - Chengalpattu EMU",
+    "number": "40533",
+    "direction": "towards Chengalpattu (down)",
+    "gate_pass_time": "14:02",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 20,
+    "name": "Chennai Beach - Chengalpattu EMU",
+    "number": "40535",
+    "direction": "towards Chengalpattu (down)",
+    "gate_pass_time": "14:45",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 21,
+    "name": "Chennai Beach - Chengalpattu EMU",
+    "number": "40537",
+    "direction": "towards Chengalpattu (down)",
+    "gate_pass_time": "15:27",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 22,
+    "name": "Chennai Beach - Chengalpattu EMU",
+    "number": "40539",
+    "direction": "towards Chengalpattu (down)",
+    "gate_pass_time": "16:05",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 23,
+    "name": "Chennai Beach - Chengalpattu EMU",
+    "number": "40541",
+    "direction": "towards Chengalpattu (down)",
+    "gate_pass_time": "16:35",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 24,
+    "name": "Chennai Beach - Chengalpattu EMU",
+    "number": "40543",
+    "direction": "towards Chengalpattu (down)",
+    "gate_pass_time": "17:02",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 25,
+    "name": "Chennai Beach - Chengalpattu EMU",
+    "number": "40545",
+    "direction": "towards Chengalpattu (down)",
+    "gate_pass_time": "17:25",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 26,
+    "name": "Chennai Beach - Tirumalpur EMU",
+    "number": "40703",
+    "direction": "towards Chengalpattu (down)",
+    "gate_pass_time": "17:52",
+    "days": ["MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 27,
+    "name": "Chennai Beach - Chengalpattu EMU",
+    "number": "40547",
+    "direction": "towards Chengalpattu (down)",
+    "gate_pass_time": "18:12",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 28,
+    "name": "Chennai Beach - Chengalpattu EMU",
+    "number": "40549",
+    "direction": "towards Chengalpattu (down)",
+    "gate_pass_time": "18:35",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 29,
+    "name": "Chennai Beach - Chengalpattu EMU",
+    "number": "40551",
+    "direction": "towards Chengalpattu (down)",
+    "gate_pass_time": "19:00",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 30,
+    "name": "Chennai Beach - Chengalpattu EMU",
+    "number": "40553",
+    "direction": "towards Chengalpattu (down)",
+    "gate_pass_time": "19:25",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 31,
+    "name": "Chennai Beach - Chengalpattu EMU",
+    "number": "40555",
+    "direction": "towards Chengalpattu (down)",
+    "gate_pass_time": "19:50",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 32,
+    "name": "Chennai Beach - Chengalpattu EMU",
+    "number": "40557",
+    "direction": "towards Chengalpattu (down)",
+    "gate_pass_time": "20:20",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 33,
+    "name": "Chennai Beach - Chengalpattu EMU",
+    "number": "40559",
+    "direction": "towards Chengalpattu (down)",
+    "gate_pass_time": "20:55",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 34,
+    "name": "Chennai Beach - Chengalpattu EMU",
+    "number": "40561",
+    "direction": "towards Chengalpattu (down)",
+    "gate_pass_time": "21:30",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 35,
+    "name": "Chennai Beach - Chengalpattu EMU",
+    "number": "40563",
+    "direction": "towards Chengalpattu (down)",
+    "gate_pass_time": "22:15",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 36,
+    "name": "Chennai Beach - Chengalpattu EMU",
+    "number": "40565",
+    "direction": "towards Chengalpattu (down)",
+    "gate_pass_time": "22:50",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 37,
+    "name": "Chennai Beach - Chengalpattu EMU",
+    "number": "40567",
+    "direction": "towards Chengalpattu (down)",
+    "gate_pass_time": "23:40",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 38,
+    "name": "Chengalpattu - Chennai Beach EMU",
+    "number": "40502",
+    "direction": "towards Chennai Beach (up)",
+    "gate_pass_time": "04:08",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 39,
+    "name": "Chengalpattu - Chennai Beach EMU",
+    "number": "40504",
+    "direction": "towards Chennai Beach (up)",
+    "gate_pass_time": "04:43",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 40,
+    "name": "Chengalpattu - Chennai Beach EMU",
+    "number": "40506",
+    "direction": "towards Chennai Beach (up)",
+    "gate_pass_time": "05:13",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 41,
+    "name": "Chengalpattu - Chennai Beach EMU",
+    "number": "40508",
+    "direction": "towards Chennai Beach (up)",
+    "gate_pass_time": "05:43",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 42,
+    "name": "Chengalpattu - Chennai Beach EMU",
+    "number": "40510",
+    "direction": "towards Chennai Beach (up)",
+    "gate_pass_time": "06:18",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 43,
+    "name": "Chengalpattu - Chennai Beach EMU",
+    "number": "40512",
+    "direction": "towards Chennai Beach (up)",
+    "gate_pass_time": "06:48",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 44,
+    "name": "Chengalpattu - Chennai Beach EMU",
+    "number": "40514",
+    "direction": "towards Chennai Beach (up)",
+    "gate_pass_time": "07:08",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 45,
+    "name": "Tirumalpur - Chennai Beach EMU",
+    "number": "40702",
+    "direction": "towards Chennai Beach (up)",
+    "gate_pass_time": "07:23",
+    "days": ["MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 46,
+    "name": "Chengalpattu - Chennai Beach EMU",
+    "number": "40516",
+    "direction": "towards Chennai Beach (up)",
+    "gate_pass_time": "07:38",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 47,
+    "name": "Chengalpattu - Chennai Beach EMU",
+    "number": "40518",
+    "direction": "towards Chennai Beach (up)",
+    "gate_pass_time": "07:53",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 48,
+    "name": "Chengalpattu - Chennai Beach EMU",
+    "number": "40520",
+    "direction": "towards Chennai Beach (up)",
+    "gate_pass_time": "08:13",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 49,
+    "name": "Chengalpattu - Chennai Beach EMU",
+    "number": "40522",
+    "direction": "towards Chennai Beach (up)",
+    "gate_pass_time": "08:33",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 50,
+    "name": "Chengalpattu - Chennai Beach EMU",
+    "number": "40524",
+    "direction": "towards Chennai Beach (up)",
+    "gate_pass_time": "08:58",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 51,
+    "name": "Chengalpattu - Chennai Beach EMU",
+    "number": "40526",
+    "direction": "towards Chennai Beach (up)",
+    "gate_pass_time": "09:28",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 52,
+    "name": "Chengalpattu - Chennai Beach EMU",
+    "number": "40528",
+    "direction": "towards Chennai Beach (up)",
+    "gate_pass_time": "09:53",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 53,
+    "name": "Chengalpattu - Chennai Beach EMU",
+    "number": "40530",
+    "direction": "towards Chennai Beach (up)",
+    "gate_pass_time": "10:43",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 54,
+    "name": "Chengalpattu - Chennai Beach EMU",
+    "number": "40532",
+    "direction": "towards Chennai Beach (up)",
+    "gate_pass_time": "11:23",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 55,
+    "name": "Chengalpattu - Chennai Beach EMU",
+    "number": "40534",
+    "direction": "towards Chennai Beach (up)",
+    "gate_pass_time": "12:13",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 56,
+    "name": "Chengalpattu - Chennai Beach EMU",
+    "number": "40536",
+    "direction": "towards Chennai Beach (up)",
+    "gate_pass_time": "12:58",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 57,
+    "name": "Chengalpattu - Chennai Beach EMU",
+    "number": "40538",
+    "direction": "towards Chennai Beach (up)",
+    "gate_pass_time": "13:38",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 58,
+    "name": "Chengalpattu - Chennai Beach EMU",
+    "number": "40540",
+    "direction": "towards Chennai Beach (up)",
+    "gate_pass_time": "14:13",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 59,
+    "name": "Chengalpattu - Chennai Beach EMU",
+    "number": "40542",
+    "direction": "towards Chennai Beach (up)",
+    "gate_pass_time": "14:53",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 60,
+    "name": "Chengalpattu - Chennai Beach EMU",
+    "number": "40544",
+    "direction": "towards Chennai Beach (up)",
+    "gate_pass_time": "15:33",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 61,
+    "name": "Villupuram - Chennai Beach MEMU",
+    "number": "66046",
+    "direction": "towards Chennai Beach (up)",
+    "gate_pass_time": "15:57",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 62,
+    "name": "Chengalpattu - Chennai Beach EMU",
+    "number": "40546",
+    "direction": "towards Chennai Beach (up)",
+    "gate_pass_time": "16:23",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 63,
+    "name": "Chengalpattu - Chennai Beach EMU",
+    "number": "40548",
+    "direction": "towards Chennai Beach (up)",
+    "gate_pass_time": "16:53",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 64,
+    "name": "Chengalpattu - Chennai Beach EMU",
+    "number": "40550",
+    "direction": "towards Chennai Beach (up)",
+    "gate_pass_time": "17:43",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 65,
+    "name": "Chengalpattu - Chennai Beach EMU",
+    "number": "40552",
+    "direction": "towards Chennai Beach (up)",
+    "gate_pass_time": "18:08",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 66,
+    "name": "Chengalpattu - Chennai Beach EMU",
+    "number": "40554",
+    "direction": "towards Chennai Beach (up)",
+    "gate_pass_time": "18:43",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 67,
+    "name": "Chengalpattu - Chennai Beach EMU",
+    "number": "40556",
+    "direction": "towards Chennai Beach (up)",
+    "gate_pass_time": "19:13",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 68,
+    "name": "Chengalpattu - Chennai Beach EMU",
+    "number": "40558",
+    "direction": "towards Chennai Beach (up)",
+    "gate_pass_time": "19:43",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 69,
+    "name": "Chengalpattu - Chennai Beach EMU",
+    "number": "40560",
+    "direction": "towards Chennai Beach (up)",
+    "gate_pass_time": "20:23",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 70,
+    "name": "Chengalpattu - Chennai Beach EMU",
+    "number": "40562",
+    "direction": "towards Chennai Beach (up)",
+    "gate_pass_time": "21:03",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 71,
+    "name": "Chengalpattu - Chennai Beach EMU",
+    "number": "40564",
+    "direction": "towards Chennai Beach (up)",
+    "gate_pass_time": "21:33",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 72,
+    "name": "Chengalpattu - Chennai Beach EMU",
+    "number": "40566",
+    "direction": "towards Chennai Beach (up)",
+    "gate_pass_time": "22:18",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 73,
+    "name": "Chengalpattu - Chennai Beach EMU",
+    "number": "40568",
+    "direction": "towards Chennai Beach (up)",
+    "gate_pass_time": "22:33",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  },
+  {
+    "id": 74,
+    "name": "Chengalpattu - Chennai Beach EMU",
+    "number": "40570",
+    "direction": "towards Chennai Beach (up)",
+    "gate_pass_time": "23:13",
+    "days": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+    "close_before_min": 4,
+    "open_after_min": 2
+  }
+]
